@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Abstract Factor PR.data.unityweb",
+"asmCodeUrl": "Abstract Factor PR.asm.code.unityweb",
+"asmMemoryUrl": "Abstract Factor PR.asm.memory.unityweb",
+"asmFrameworkUrl": "Abstract Factor PR.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
